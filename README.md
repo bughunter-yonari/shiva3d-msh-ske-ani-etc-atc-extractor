@@ -155,7 +155,7 @@ main.XXXXXXXX.com.turborocketgames.wildcraft.obb
 **Не нужно распаковывать весь OBB!**
 
 ---
-
+![nrdjjf](meow6.gif)
 # 5. Извлечение S3DMain.smf
 
 В открытом архиве найдите файл:
@@ -179,7 +179,7 @@ MSH2GLB/S3DMain.smf
 ```
 
 ---
-
+![ekwn](meow7.gif)
 # 6. Подготовка плагина
 
 Скопируйте два скрипта плагина в рабочую папку:
@@ -197,7 +197,7 @@ MSH2GLB/
 ```
 
 ---
-
+![dkdkkdkd](meow8.gif)
 # 7. Распаковка SMF
 
 Откройте Termux.
