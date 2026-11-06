@@ -6,8 +6,8 @@ by yonari /WCG (WildCube Games) ヘ⁠（⁠。⁠□⁠°⁠）⁠ヘ
 
 > Инструмент для распаковки игровых ресурсов ShiVa 3D и конвертации 3D-моделей `.msh` в `.glb`.
 
-**Платформа:** Android  
-**Терминал:** Termux  
+**Платформы:** Android, Windows, Linux
+**Терминал:** Termux, Terminal Linux, cmd
 **Язык:** Python 3  
 **Зависимости:** стандартная библиотека Python
 
