@@ -302,7 +302,7 @@ game/Resources/AnimClips/
 Если извлекается статичный объект без анимаций, искать скелет и AnimClips не требуется.
 
 ---
-
+![млльеов](meow12.gif)
 # 9. Конвертация в GLB
 
 Возвращаемся в Termux.
@@ -363,3 +363,4 @@ termux-setup-storage
 
 **Plugin — WildCube (Yonari) Tools**
 
+![млошщдеов](meow13.gif)
